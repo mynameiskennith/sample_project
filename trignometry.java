@@ -3,7 +3,4 @@ public class trignometry {
 
     }
 
-    public static void drawCos() {
-
-    }
 }
